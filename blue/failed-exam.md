@@ -1,6 +1,6 @@
-# Dropped Out
+# Failed Exam
 
-### Unfortunately, you thought you were too smart to bother with an assignment, convinced it wouldn’t matter. But look where that mindset got you. Realizing your mistake, you decide it’s time for a change—you want to be better, and now, you’re ready to prove it.
+### Unfortunately, going to the party was a horrible idea as now you are falling behind and missing lots of assignment. School is getting too hard for you and you decide to give up.
 
-## [Start from scratch](../red/business.md)
-## [Seek Guidance from God](../red/church.md)
+## [Drop out](dropped-out.md)
+
