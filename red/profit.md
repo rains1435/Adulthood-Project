@@ -4,4 +4,4 @@
 
 ### Down there ↓↓↓
 
-## [Result of Hardwork]()
+## [Result of Hardwork](../blue/rich.md)
