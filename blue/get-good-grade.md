@@ -4,4 +4,4 @@
 
 ## [Left path](dropped-out.md)
 ## [Right path](graduate.md)
-![alt text](../path.jpeg)
+![alt text](../images-used/path.jpeg)
