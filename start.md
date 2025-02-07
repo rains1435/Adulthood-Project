@@ -5,3 +5,4 @@
 ## [Go to College](blue/college.md)
 ## [Start a Business](red/business.md)
 
+![alt text](images-used/start.png)

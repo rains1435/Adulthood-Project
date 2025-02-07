@@ -5,3 +5,5 @@
 ### Down there ↓↓↓
 
 ## [Result of Hardwork](../blue/rich.md)
+
+![alt text](<../images-used/profit.png>)
