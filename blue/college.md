@@ -4,3 +4,5 @@
 
 ## [Use your time wisely by studying](get-good-grade.md)
 ## [Go to a party you got invited to](failed-exam.md)
+
+![alt text](<../Hmmm Studying or Partying.png>)
