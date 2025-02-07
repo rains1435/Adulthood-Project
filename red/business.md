@@ -5,3 +5,4 @@
 ## [Innovate a useful product](profit.md)
 ## [Start a Sketchy Business](downfall.md)
 
+![alt text](<../images-used/business.png>)
