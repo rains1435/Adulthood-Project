@@ -4,3 +4,4 @@
 
 ### Want to restart for a different outcome????
 ## [Click here](../start.md)
+![alt text](../images-used/cruise.webp)
