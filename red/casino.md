@@ -4,3 +4,5 @@
 
 ## [Choose Red](../blue/rich.md)
 ## [Choose Blue](poor.md)
+
+![alt text](<../images-used/RED OR BLACK.png>)

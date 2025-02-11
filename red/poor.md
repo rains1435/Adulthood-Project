@@ -5,3 +5,5 @@
 ### find out by clicking below ↓↓↓
 
 ## [What's there to lose? Just click me](bad-ending.md)
+
+![alt text](<../images-used/poor.png>)
